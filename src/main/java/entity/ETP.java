@@ -31,6 +31,7 @@ public class ETP extends  Toto implements Serializable{
 public ETP() {
 	super();
 	// TODO Auto-generated constructor stub
+	System.out.println("good");
 }
 
 }
